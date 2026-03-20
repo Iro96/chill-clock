@@ -1,12 +1,13 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1920" height="785" alt="image" src="https://github.com/user-attachments/assets/5bb65ab6-027c-4107-b446-2827b5bade05" />
 </div>
 
-# Run and deploy your AI Studio app
+# Chill Clock
 
-This contains everything you need to run your app locally.
+Just a clock with customs background image and background audio
 
-View your app in AI Studio: https://ai.studio/apps/5baa4a64-240e-49f2-9f0e-f31c536c8633
+View my app deployed on: [Chill Clock](https://exeample.com)
+
 
 ## Run Locally
 
@@ -15,6 +16,5 @@ View your app in AI Studio: https://ai.studio/apps/5baa4a64-240e-49f2-9f0e-f31c5
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+1. Run the app:
    `npm run dev`
