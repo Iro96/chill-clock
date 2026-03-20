@@ -6,7 +6,7 @@
 
 Just a clock with customs background image and background audio
 
-View my app deployed on: [Chill Clock](https://exeample.com)
+View my app deployed on: [Chill Clock](https://chill-clock.vercel.app/)
 
 
 ## Run Locally
